@@ -37,7 +37,7 @@ TODO: beam.scad will echo a cut list based on the beams used in the design.
 
 ...
 
-3. Use spools of steel ties to create "X" pattens across the four vertical
+3. Use spools of steel strap to create "X" pattens across the four vertical
    sides of both tiers. Due to the lack of a deep foundation on the far side
    of the structure, the diagonal ties on the left and right sides are
    especially important. The structure may want to sag on the far side over
