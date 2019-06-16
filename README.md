@@ -14,7 +14,7 @@ success on one of these two fronts.
 + Adjustable beam dimensions (2x4, 1x2, etc...).
 + Configurable stud and rafter placement and count.
 
-## Construction Installation
+## Construction and Installation
 
 Firstly...
 
