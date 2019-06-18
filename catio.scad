@@ -35,11 +35,7 @@ closeWallStuds = [
 
 leftWallStuds = evenStuds(1, totalX);
 
-rightWallStuds = [
-    ratioPlacement(0, totalX, beamHeight),
-    ratioPlacement(0.66, totalX, beamHeight),
-    ratioPlacement(1, totalX, beamHeight)
-];
+rightWallStuds = evenStuds(1, totalX);
 
 rafters = [
     ratioPlacement(0, totalY, beamHeight),
